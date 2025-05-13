@@ -1,0 +1,132 @@
+* {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
+.about_me {
+  height: 120vh;
+  width: 225vh;
+  background-size: contain;
+  background-image: url(image/developer.png);
+  background-repeat: no-repeat;
+}
+
+.head_text {
+  color: white;
+  font-weight: bold;
+  display: flex;
+  align-items:flex-end;
+  
+}
+
+.head_text h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 80px;
+  margin-top: 50px;
+  margin-left: 275px;
+}
+
+.head_text p {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size:40px;
+margin-top:60px;
+margin-bottom: 8px;
+font-weight: 300;
+margin-left: 15px;
+}
+
+.bottam_text {
+  color: white;
+  margin-left:275px;
+  margin-top: 0.3px;
+  font-size:60px;
+  text-transform: uppercase;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.work {
+  height: 150px;
+  width:225vh;
+  background-color: black;
+  color: white;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+  font-size: 45px;
+  word-spacing: 10px;
+  letter-spacing: -4px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.end {
+  background-color: white;
+  height: 460px;
+  width: 225vh;
+  display: flex;
+  align-items: center;
+}
+
+.end4{
+  background-color: white;
+  border-radius: 10px;
+  height: 380px;
+  width:320px;
+  margin: auto;
+  box-shadow: 2px 2px 2px 2px rgba(1, 1, 1, 0.2);
+}
+
+.end1 {
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.end4:hover {
+    transform: scale(1.04);
+  box-shadow: 3px 5px 5px rgba(1, 1, 1, 0.3);
+  transition: 0.2s ease-in-out;
+}
+
+.end4 h4 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 900;
+  text-transform: uppercase;
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.end4 p {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.end_part {
+  height: 230px;
+  width: 225vh;
+  display: flex;
+}
+
+.Contant_Me {
+  height: 230px;
+  width: 112.5vh;
+  background-color: #515603;
+  color: white;
+}
+
+.About_Me {
+  height: 230px;
+  width: 112.5vh;
+  background-color: #722300;
+  color: white;
+}
+
+.hii h1 {
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.hii p {
+  margin-left: 20px;
+
+}
